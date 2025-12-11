@@ -3,27 +3,27 @@ const listings = [
     imageText: "Listing Image 1",
     imageUrl:
       "https://images.unsplash.com/photo-1721902022254-3b8c85c2498f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
-    title: "Market Street",
+    title: "Stephen Avenue",
     subtitle: "Calgary, Alberta",
   },
   {
     imageText: "Listing Image 2",
     imageUrl:
       "https://images.unsplash.com/photo-1638282504303-46f10708366b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
-    title: "Lincoln Boulevard",
+    title: "Jasper Avenue",
     subtitle: "Edmonton, Alberta",
   },
   {
     imageText: "Listing Image 3",
     imageUrl:
       "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
-    title: "Broadway",
+    title: "Gaetz Avenue",
     subtitle: "Red Deer, Alberta",
   },
 ];
 
 const urlCTA =
-  "https://images.unsplash.com/photo-1606788075819-9574a6edfab3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2068";
+  "https://images.unsplash.com/photo-1761839258568-fd466a93f68b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
 
 const testimonials = [
   {
