@@ -10,7 +10,7 @@ const HeroSection = () => {
     >
       {/* Background Image */}
       <div
-        className="absolute inset-0 bg-[url('/images/house-ru.png')] 
+        className="absolute inset-0 bg-[url('/images/house1.jpg')] 
         bg-cover bg-center saturate-150"
       ></div>
 

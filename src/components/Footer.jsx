@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="flex items-center mb-8 justify-between flex-wrap">
           <div className="flex items-end text-white text-4xl lg:text-5xl font-extrabold tracking-tight gap-2">
             <HousePlugIcon className="size-8 lg:size-12 " />
-            BondoRu
+            LiwaRental
             <sup className="font-normal text-xl ml-0 lg:text-3xl">®</sup>
           </div>
           <p className="text-zinc-400 text-sm mt-2 lg:mt-0 italic">
@@ -58,7 +58,7 @@ const Footer = () => {
 
         {/* Copyright/Final Text */}
         <div className="mt-20 pt-8 border-t border-zinc-800 text-center text-zinc-600 text-sm">
-          &copy; {new Date().getFullYear()} BondoRu. All rights reserved.
+          &copy; {new Date().getFullYear()} LiwaRental. All rights reserved.
         </div>
       </div>
     </footer>

@@ -1,5 +1,7 @@
 import CtaSection from "./components/CtaSection";
+import DiscoverSection from "./components/DiscoverSection";
 import FeaturedListings from "./components/FeaturedListings";
+import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import ImageSequenceSection from "./components/ImageSequenceSection";
 import NavBar from "./components/NavBar";
@@ -19,7 +21,11 @@ const App = () => {
     <CtaSection />
     <TestimonialSection />
     <ImageSequenceSection />
+    <DiscoverSection />
     </main>
+
+    {/* Footer */}
+    <Footer />
   </div>;
 
 
